@@ -1,0 +1,128 @@
+<html>
+<head>
+
+<link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/public/css/styles.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+</head>
+<body>
+
+
+
+<nav class="navbar navbar-inverse">
+    
+    <div class="col-lg-12"><div class="header"><h3><strong>John Allen Hopper</h3></strong></div></div>
+
+
+<div class="links">
+<ul><li><p><a href="index.html">Home</a></p></li>
+<li><p><a href="about.html">About</a></p></li>
+<li><p><a href="portfolio.html">Portfolio</a></p></li>
+<li><p><a href="contact.html">Contact</a></p></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+  <div class="portfolio">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12">
+
+<div class="panel panel-default jah">
+<h1>John A. Hopper</h1>
+<ul>
+<li>Agency: Freelance</li>
+<li>Built with: HTML, CSS, Bootstrap, GulpJS, JavaScript, NowJS</li>
+<li>Role: Web Designer, Web Developer, Webmaster</li>
+
+<li><a href="https://johnallenhopper.now.sh">johnallenhopper.now.sh</a></li>
+</ul>
+</div>
+
+
+<div class="panel panel-default vap">
+
+
+<img src="/public/images/vap.png">
+
+<h1>Veronica Adams Photography</h1>
+<ul>
+<li>Agency: Freelance</li>
+<li>Built with: HTML, CSS, Bootstrap, GulpJS, JavaScript, NowJS</li>
+<li>Role: Web Designer, Web Developer, Webmaster</li>
+<li><a href="https://veronicaadamsphotography.now.sh">veronicaadamsphotography.now.sh</a></li>
+</ul>
+</div>
+
+
+ 
+
+<div class="panel panel-default mexene">
+ <img src="/public/images/mexene.png">
+<h1>Mexene Chili Powder</h1>
+<ul>
+<li>Agency: Johnson & Sekin</li>
+<li>Built with: HTML, CSS, SASS, PHP Backend, GulpJS, JavaScript</li>
+<li>Role: Front-End Web Developer</li>
+<li><a href="https://mexene.com">mexene.com</a></li>
+</ul>
+</div>
+
+<div class="panel panel-default teasdale">
+ <img src="/public/images/teasdale.png">
+<h1>Teasdale Latin Foods</h1>
+<ul>
+<li>Agency: Johnson & Sekin</li>
+<li>Built with: HTML, CSS, SASS, PHP Backend, GulpJS, JavaScript</li>
+<li>Role: Supporting Front-End Web Developer</li>
+<li><a href="https://teasdalelatinfoods.com">teasdalelatinfoods.com</a></li>
+</ul>
+</div>
+
+<h1>Other Projects: </h1>
+<h3><a href="https://github.com/jahopp23/SuperGroups">SuperGroups</a> - Rails5 application to create community groups with user login/password.</h3>
+<h3><a href="https://github.com/jahopp23/user-mgmt">User Mgmt</a> - Rails5 application to create, edit, delete users on a dashboard.</h3>
+<h3><a href="https://github.com/jahopp23/product_dashboard">Product Dashboard </a>- Rails5 application to create, edit, delete products on a dashboard.</h3>
+<h3><a href="https://github.com/jahopp23/image_portal">Image Portal </a> - Rails5 application to upload images.</h3>
+<h3><a href="https://github.com/jahopp23/Angular_Event_Dashboard">Event Dashboard</a> - AngularJS application to create and edit events</h3>
+
+
+
+</div>
+
+
+</div>
+</div>
+
+
+
+<!-- Footer -->
+        <footer class="footer">
+            
+                    <p>Copyright &copy; John A. Hopper 2017</p>
+                    
+          
+        </footer>
+
+</body>
+
+</html>

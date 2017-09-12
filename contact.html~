@@ -1,0 +1,53 @@
+<html>
+<head>
+
+<link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/public/css/styles.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+</head>
+<body>
+
+
+
+<nav class="navbar navbar-inverse">
+    
+    <div class="col-lg-12"><div class="header"><h3><strong>John Allen Hopper</h3></strong></div></div>
+
+
+<div class="links">
+<ul><li><p><a href="index.html">Home</a></p></li>
+<li><p><a href="about.html">About</a></p></li>
+<li><p><a href="portfolio.html">Portfolio</a></p></li>
+<li><p><a href="contact.html">Contact</a></p></li>
+</ul>
+</div>
+
+
+
+
+
+<section class="contact-section">
+  <p>Please email for job inquiries pertaining to front-end web development, web design, and UI/UX. You can be a consultant, agency, or freelance. </p>
+  <p><a href="mailto:jahopp@gmail.com?Subject=Job%20Inquiry" target="_top">jahopp@gmail.com</a></p>
+
+   <a href="https://github.com/jahopp23"><img src="/public/images/github.png"></a>
+   <a href="https://www.linkedin.com/in/john-allen-hopper-874424aa/"><img src="/public/images/linkedin.png"></a>
+   
+</section>
+
+
+
+</div>
+
+<!-- Footer -->
+        <footer class="footer">
+            
+                    <p>Copyright &copy; John A. Hopper 2017</p>
+                    
+          
+        </footer>
+
+</body>
+
+</html>

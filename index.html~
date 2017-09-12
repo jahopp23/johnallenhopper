@@ -1,0 +1,89 @@
+<html>
+<head>
+
+<link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/public/css/styles.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Sirin+Stencil" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+</head>
+<body>
+
+
+
+
+<div class="intro-image">
+<nav class="navbar navbar-inverse">
+    
+    <div class="col-lg-12"><div class="header"><h3>John Allen Hopper</h3></div></div>
+
+
+<div class="links">
+<ul><li><p><a href="index.html">Home</a></p></li>
+<li><p><a href="about.html">About</a></p></li>
+<li><p><a href="portfolio.html">Portfolio</a></p></li>
+<li><p><a href="contact.html">Contact</a></p></li>
+</ul>
+</div>
+    
+
+        
+
+
+
+ 
+
+
+</nav>
+
+
+
+ 
+
+</div>
+
+<div class="intro jumbotron">
+
+  <h1>Front-End Web Developer</h1>
+  
+<p>Transmuting the elements of passion, creativity, visual design, and tech savviness, it is a joy to transform ideas into code!</p>
+<p style="color:green;"> I currently seek a position as Front-End Web Developer or UI Developer.   </p>
+     <p><a class="btn btn-primary btn-lg" href="contact.html" role="button">Contact Now</a></p>
+
+
+<ul>
+<li>Mobile-First, Responsive Web Design</li>
+
+<li>Interactive Functionality</li> 
+<li>Full Stack Capabilities</li>
+</ul>
+</div>
+
+
+
+
+
+<div class="slides">
+<div class="panel panel-default col-md-4">
+
+</div>
+
+</div>
+<div class="panel panel-default col-md-4">
+
+</div>
+</div>
+<!-- Footer -->
+        <footer class="footer">
+            
+                    <p>Copyright &copy; John A. Hopper 2017</p>
+ 
+                    
+          
+        </footer>
+
+</body>
+
+</html>
